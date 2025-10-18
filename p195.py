@@ -4,3 +4,4 @@ msg = " こんにちは ¥t¥n¥r"
 print(f"「{msg.strip()}」")
 print(f"「{msg.lstrip()}」")
 print(f"「{msg.rstrip()}」")
+GeneratorExit
